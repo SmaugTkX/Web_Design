@@ -1,0 +1,126 @@
+{
+	"Tags": [
+
+		"Struct": [
+			{
+				"name": "<p>",
+				"about": "Parágrafo. Parágrafo de texto",
+				"close": "True"
+			},
+			{
+				"name": "<html>",
+				"about": "Main html tag",
+				"close": "True"
+			}
+		],
+	
+		"Presentation": [
+			{
+				"name": "<b>",
+				"about": "Bold. Elements are presented in visually different way.",
+				"close": "True"
+			},
+			{
+				"name": "<i>",
+				"about": "Italic. Elements are presented in visually different way.",
+				"close": "True"
+			},
+			{
+				"name": "<sup>",
+				"about": "Superscript. Elements are presented as expoents.",
+				"close": "True"
+			},
+			{
+				"name": "<sub>",
+				"about": "Subscript.",
+				"close": "True"
+			}
+		],
+
+		"Whitespace": [
+			{
+				"name": "<br />",
+				"about": "Break line.",
+				"close": "True"
+			},
+			{
+				"name": "<hr />",
+				"about": "Creates a break between themes —.",
+				"close": "False"
+			}
+		],
+
+		"Semantic": [
+			{
+				"name": "<strong>",
+				"about": "Indicates strang importance.",
+				"close": "True"
+			},
+			{
+				"name": "<em>",
+				"about": "Indicates changes that subtly changes the meaning of a sentence.",
+				"close": "True"
+			},
+			{
+				"name": "<blockquote>",
+				"about": "Quotation. Normally used for longer quotes that take up a paragraph. <p> is used inside <blockquote>. Atribute - cite='(fonte)'.",
+				"close": "True"
+			},
+			{
+				"name": "<q>",
+				"about": "Quotation. Use for shorter quote.",
+				"close": "True"
+			},
+			{
+				"name": "<abbr>",
+				"about": "Abbreviation. Atribute - title = '(full name)'.",
+				"close": "True"
+			},
+			{
+				"name": "<acronym>",
+				"about": "Acronyms. Atribute - title = '(full name)'.",
+				"close": "True"
+			},
+			{
+				"name": "<cite>",
+				"about": "Citation of a peace of work.",
+				"close": "True"
+			},
+			{
+				"name": "<dfn>",
+				"about": "Definiton. First time explaining some new terminology.",
+				"close": "True"
+			},
+			{
+				"name": "<address>",
+				"about": "Contain contact detail for the author of the page",
+				"close": "True"
+			},
+			{
+				"name": "<del>",
+				"about": "To show content that has been deleted",
+				"close": "True"
+			},
+			{
+				"name": "<ins>",
+				"about": "To show content that has been inserted",
+				"close": "True"
+			},
+			{
+				"name": "<s>",
+				"about": "To show content that is no more relevent or ccurate but should not me removed.",
+				"close": "True"
+			}
+			
+		]
+	],
+	
+
+	"Atrributes": [
+	{
+		"name": "lang",
+		"about": "text's language"
+	}
+	]
+
+}		

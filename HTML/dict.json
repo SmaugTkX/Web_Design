@@ -1,4 +1,4 @@
-{
+{	
 	"Tags": [
 
 		"Struct": [
@@ -10,6 +10,11 @@
 			{
 				"name": "<html>",
 				"about": "Main html tag",
+				"close": "True"
+			},
+			{
+				"name": "<a>",
+				"about": "Link. href='addres' or href=#id. target='_blank' (new tab). ",
 				"close": "True"
 			}
 		],
@@ -112,6 +117,38 @@
 				"close": "True"
 			}
 			
+		],
+		"Table": [
+			{
+				"name": "<ol>",
+				"about": "Ordered List. Used with <li> - List Item -.",
+				"close": "True"
+			},
+			{
+				"name": "<ul>",
+				"about": "Unordered List. Used with <lu> - List Item -.",
+				"close": "True" 
+			},
+			{
+				"name": "<li>",
+				"about": "List Item. Used in lists.",
+				"close": "True"
+			},
+			{
+				"name": "<dl>",
+				"about": "Definition list. List that contain Terms and their definitions. Used with <dt> and <dd>.",
+				"close": "True" 
+			},
+			{
+				"name": "<dt>",
+				"about": "Defined Term. Term to be defined.",
+				"close": "True"
+			},
+			{
+				"name": "<dd>",
+				"about": "Term Definition.",
+				"close": "True"
+			}
 		]
 	],
 	
